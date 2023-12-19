@@ -1,9 +1,5 @@
 # Flexbox Modül Görevi
 
-Bu görev, öğrencinin kendi başına yapacağı pekiştirme görevidir.
-
-## Kullanıcı arayüzü ve Git
-
 ## Hedefler
 
 - bir CSS stillemesi uygulayın ve tarayıcılar arası geliştirme için neden önemli olduğunu anlayın
@@ -53,8 +49,6 @@ Aşağıdaki hedefler, bilginizi artırmak için hazırlanmıştır ve bugün s�
 **WireFrame nedir? Nasıl kullanırım?**
 
 *WireFrame, web sayfası stillerini, içeriğini ve işlevselliğini ana hatlarıyla belirtmek için kullanılır.. UX tasarımcıları, fikirlerini web geliştiricilerine açıklamak için genellikle WireFrame kullanır. Yazılım üzerinde elle çizilmiş veya taklit edilmiş bu WireFrame'ler, tasarımları tekrarlamanın ucuz ve kolay bir yoludur.. Bu projede aşağıdaki gibi bir WireFrame seçecek ve elemanları HTML ve CSS ile oluşturacaksınız..*
-
-![bknz](/WireFrame Örnekleri/Seçenek 1.jpeg)
 
 
 
