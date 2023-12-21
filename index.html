@@ -3,18 +3,12 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./style/index.css" />
+    <link rel="stylesheet" href="styles.css" />
     <title>WORKINTECH ACADEM</title>
   </head>
   <body>
-    <!-- ** header ** -->
-    <!-- 
-      html-1 header'da WiT yazısı h2 tag'i ile olsun,
-      html-2 navigasyon menüsü anchor tag ile 4 item olarak oluşturulsun
-      html-3 ilk item'ın class'ı active olsun.
-    -->
-    <header>
-      <h2>WiT</h2>
+    <header class="main-header">
+      <h2>İSMİM</h2>
       <nav>
         <a href="#" class="active">Anasayfa</a>
         <a href="#">Hakkımızda</a>
@@ -23,63 +17,63 @@
       </nav>
     </header>
 
-    <!-- ** banner ** -->
-    <!--
-      html-4 class'ı banner-section olan bir bölüm(section) oluşturulsun,
-      html-5 içinde banner-content class'ı ile gruplanmış bir div tag'i olsun.
-      html-6 div'in içinde uygun heading ile yazı ve 
-      html-7 class'ı btn olan button olsun
-    -->
-    <section class="banner-section">
-      <div class="banner-content">
-        <div>
-          <h2>Uygun Başlık</h2>
-          <!-- Diğer içerikler buraya eklenebilir -->
-          <button class="btn">Click Me</button>
+    <section class="main-section">
+      <div class="first-part-section">
+        <img src="https://picsum.photos/900/700?4" alt="" />
+        <div class="first-part-right-section">
+          <h3>İsmim</h3>
+          <button class="btn">Projelerim</button>
+          <p class="first-part-right-section-p">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat.Duis aute irure dolor in
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+            culpa qui officia deserunt mollit anim id est laborum.
+          </p>
+        </div>
+      </div>
+      <div class="items-part-section">
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?1" alt="Project Image" />
+          <h3>Görsel 1</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?2" alt="Project Image" />
+          <h3>Görsel 2</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?14" alt="Project Image" />
+          <h3>Görsel 3</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?5" alt="Project Image" />
+          <h3>Görsel 4</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?8" alt="Project Image" />
+          <h3>Görsel 5</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?9" alt="Project Image" />
+          <h3>Görsel 6</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?10" alt="Project Image" />
+          <h3>Görsel 7</h3>
+        </div>
+        <div class="projects-item">
+          <img src="https://picsum.photos/300/400?11" alt="Project Image" />
+          <h3>Görsel 8</h3>
         </div>
       </div>
     </section>
-    <!-- ** projects ** -->
-    <!--
-      html-8 class'ı projects-section olan bir bölüm oluşturulsun,
-      html-9 içinde class'ı projects-item olan 6 tane div olsun,
-      html-10 bu div'lerin içinde bir img ve h3 tag'i içinde metni olsun.
-
-      Not: wireframe olduğu için image'lara şimdilik src eklemeyelim!
-    -->
-    <section class="projects-section">
-      <div class="projects-item">
-        <img src="" alt="Project Image" />
-        <h3>Proje Başlığı 1</h3>
-      </div>
-      <div class="projects-item">
-        <img src="" alt="Project Image" />
-        <h3>Proje Başlığı 2</h3>
-      </div>
-      <div class="projects-item">
-        <img src="" alt="Project Image" />
-        <h3>Proje Başlığı 3</h3>
-      </div>
-      <div class="projects-item">
-        <img src="" alt="Project Image" />
-        <h3>Proje Başlığı 4</h3>
-      </div>
-      <div class="projects-item">
-        <img src="" alt="Project Image" />
-        <h3>Proje Başlığı 5</h3>
-      </div>
-      <div class="projects-item">
-        <img src="" alt="Project Image" />
-        <h3>Proje Başlığı 6</h3>
-      </div>
-    </section>
-    <!-- ** footer ** -->
-    <!--
-      html-11 footer'ı oluşturalım,
-      html-12 içinde class'ı btn olan button olsun.
-    -->
-    <footer class="footer-section">
-      <button class="btn">Click Me</button>
-    </footer>
+    <div class="footer-part-section">
+      <footer class="footer-section">
+        <h3>Gördüklerinden memnun musun?</h3>
+        <button class="btn">Bana Ulaş</button>
+      </footer>
+    </div>
   </body>
 </html>
