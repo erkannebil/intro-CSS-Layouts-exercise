@@ -51,4 +51,10 @@ Aşağıdaki hedefler, bilginizi artırmak için hazırlanmıştır ve bugün s�
 *WireFrame, web sayfası stillerini, içeriğini ve işlevselliğini ana hatlarıyla belirtmek için kullanılır.. UX tasarımcıları, fikirlerini web geliştiricilerine açıklamak için genellikle WireFrame kullanır. Yazılım üzerinde elle çizilmiş veya taklit edilmiş bu WireFrame'ler, tasarımları tekrarlamanın ucuz ve kolay bir yoludur.. Bu projede aşağıdaki gibi bir WireFrame seçecek ve elemanları HTML ve CSS ile oluşturacaksınız..*
 
 
+<img width="1393" alt="image" src="https://github.com/erkannebil/intro-CSS-Layouts-exercise/assets/80630016/ff1e508d-33ad-41ca-8e23-c89fb05ec47f">
+<img width="1214" alt="image" src="https://github.com/erkannebil/intro-CSS-Layouts-exercise/assets/80630016/34b29e8e-7b4e-418e-b69e-4c4125e76ca1">
+<img width="1391" alt="image" src="https://github.com/erkannebil/intro-CSS-Layouts-exercise/assets/80630016/fcc43e8b-9e7f-4d03-9380-b54e774c4f84">
+
+
+
 
